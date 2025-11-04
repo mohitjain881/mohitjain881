@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/mohitjain6265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mohitjain881/Mohit/">
+  <a href="https://github.com/mohitjain881/mellow-llama-37a0a3t/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:mohitjain6265@gmail.com">
@@ -38,16 +38,10 @@
 ---
 
 
----
 
 ## 🧰 Tech Toolbox
 
-### 🏗️ Core Computer Science
-<p>
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Management%20Systems%20(DBMS)-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20(DSA)-green?style=for-the-badge" />
-</p>
+
 
 ### 👨‍💻 Languages
 <p>
