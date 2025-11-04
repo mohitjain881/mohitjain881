@@ -104,46 +104,16 @@ A complete **e-commerce web application** where users can browse products, add t
 - 🌟 **Key Features:**
   - Full **product catalog** with categories & search
   - **User authentication & profile management**
-  - **Shopping cart & checkout** with secure payment integration
-  - **Admin dashboard** for product & order management
-  - Responsive design for desktop & mobile
+  - Customer Management: Stores and manages customer details securely.
+  - Payment Integration (optional): Allows secure online payments for room bookings.
+  - Responsive Design: Fully functional across mobile, tablet, and desktop devices.
 
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · TailwindCSS · JWT Authentication
 
 ---
 
-#### 🎓StudyAdda (Ed-Tech Platform)
-
-[![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EdTechFrontEnd)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/)
-
-A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
-
-- 🌟 **Key Features:**
-  - Interactive **course dashboard** for students & instructors
-  - **Authentication & authorization** for different user roles
-  - **Responsive UI** using React.js & TailwindCSS
-  - Integration with **REST APIs** for dynamic data
-  - User-friendly **course enrollment & tracking**
-
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
 
 ---
-
-#### 💼 ApplySeeker (Job Plateform)
-[![Repo](https://img.shields.io/badge/GitHub-ApplySeekerFrontend-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/ApplySeekerFrontend)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://applyseeker.netlify.app/)
-
-A **Job Platform** designed to help job seekers find and apply to opportunities easily while enabling recruiters to post and manage job listings.
-
-- 🌟 **Key Features:**
-  - User authentication for **job seekers & recruiters**
-  - **Job posting & application management**
-  - **Responsive, dynamic dashboards** for recruiters and candidates
-  - Integration with **REST APIs** for real-time updates
-  - Built for scalability and smooth user experience
-
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
 
 
 
