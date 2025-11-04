@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/mohitjain6265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mohitjain881/mellow-llama-37a0a3t/">
+  <a href="https://github.com/mohitjain881/mellow-llama-37a0a3.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:mohitjain6265@gmail.com">
